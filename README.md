@@ -17,7 +17,7 @@
 
 **OUTPUT PROGRAM**
 
-![Gambar](media/https://github.com/NjahCoetz/Pertemuan14/blob/main/output%20(2).png)
+![Gambar](https://github.com/NjahCoetz/Pertemuan14/blob/main/output%20(2).png)
 
 ### **Deskripsi**
 
