@@ -16,7 +16,8 @@
 ## **main.py**
 
 **OUTPUT PROGRAM**
-![.](media/https://github.com/NjahCoetz/Pertemuan14/blob/main/output%20(2).png)
+
+![Gambar](media/https://github.com/NjahCoetz/Pertemuan14/blob/main/output%20(2).png)
 
 ### **Deskripsi**
 
